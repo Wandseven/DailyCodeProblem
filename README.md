@@ -19,3 +19,10 @@ DailyCodingProblem
 14/09/2024: Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
 
 15/09/2024: Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
+
+16/09/2024: Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
+
+17/09/2024:There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. Given N, write a function that returns the number of unique ways you can climb the staircase. The order of the steps matters.
+
+18/09/2024: Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
+
