@@ -26,3 +26,4 @@ DailyCodingProblem
 
 18/09/2024: Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
 
+19/09/2024: The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method.
